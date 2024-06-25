@@ -119,15 +119,3 @@ def win():
 print(sum(field,[]))
 show_field()
 play_0()
-
-
-
-
-
-
-
-
-
-
-
-
